@@ -46,11 +46,3 @@ typings/
 # next.js build output
 .next
 .direnv
-.eslintrc.json
-.nazna
-.npmrc
-.releaserc.json
-dist
-node_modules
-tsconfig.json
-tsconfig.dist.json
