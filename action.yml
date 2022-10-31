@@ -1,4 +1,4 @@
-name: 'direnv action'
+name: 'direnv env action'
 description: 'Privides environment variables via direnv'
 branding:
   icon: play
