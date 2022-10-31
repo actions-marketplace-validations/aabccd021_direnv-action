@@ -8,7 +8,6 @@ async function run() {
 
     Object.keys(envs).forEach(function (name) {
       const value = envs[name];
-      console.log("exporting " + name + " : " + value);
       core.exportVariable(name, value);
     });
   }
