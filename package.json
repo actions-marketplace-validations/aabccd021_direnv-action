@@ -23,6 +23,6 @@
   },
   "devDependencies": {
     "@zeit/ncc": "^0.22.3",
-    "semantic-release": "^19.0.5"
+    "semantic-release": "^21.0.1"
   }
 }
